@@ -1,0 +1,8 @@
+#################
+## KiCad Library Excludes
+#################
+*.bak
+*.dcm
+*.bck
+*.kicad_pcb-bak
+*.pdf
